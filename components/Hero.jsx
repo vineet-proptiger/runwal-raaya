@@ -507,9 +507,9 @@ export default function Hero({ setIsOpen }) {
             {/* Trust badges */}
             <div style={{ display:'flex', gap:'4px', marginTop:'4px' }}>
               {[
-                { icon:'📞', label:'Call\nBack'  },
+                { icon:'🎧', label:'Call\nBack'  },
                 { icon:'🚗', label:'Site\nVisit' },
-                { icon:'🏷', label:'Best\nPrice' },
+                { icon:'🏷️', label:'Best\nPrice' },
               ].map((b, i) => (
                 <div key={i} style={{
                   flex:1, display:'flex', flexDirection:'column', alignItems:'center', gap:'3px',

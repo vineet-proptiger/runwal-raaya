@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/Proptiger/OneDrive - Proptiger Marketing Services Private Ltd/**)",
+      "Read(//mnt/c/Users/Proptiger/**)",
+      "Read(//c/Users/Proptiger/**)"
+    ]
+  }
+}
