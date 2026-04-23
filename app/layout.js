@@ -32,8 +32,8 @@ const nephilm = localFont({
 })
 
 export const metadata = {
-  title: 'Runwal Raaya Worli | Ultra-Luxury 3, 4 & 5 BHK Residencess — Worli, Mumbai',
-  description: 'Runwal Raaya — Ultra-luxury 3, 4 & 5 BHK Residencess across 4 acres in Worli, Mumbai. Two iconic towers, 2-acre podium garden, private elevators. Starting ₹11.29 Cr*.',
+  title: 'Runwal Raaya Worli | Ultra-Luxury 3, 4 & 5 BHK Residences — Worli, Mumbai',
+  description: 'Runwal Raaya — Ultra-luxury 3, 4 & 5 BHK Residences across 4 acres in Worli, Mumbai. Two iconic towers, 2-acre podium garden, private elevators. Starting ₹11.29 Cr*.',
 }
 
 export default function RootLayout({ children }) {
@@ -52,8 +52,8 @@ export default function RootLayout({ children }) {
                 "@type": "WebPage",
                 "@id": "https://runwalsraayaworli.in/"
               },
-              "headline": "Runwal Raaya | New Launch Ultra-Luxury Residencess — Worli, Mumbai",
-              "description": "Runwal Raaya — Ultra-luxury 3, 4 & 5 BHK Residencess across 4 acres in Worli, Mumbai. Two iconic towers, podium garden, private elevators. Prices from ₹11.29 Cr*.",
+              "headline": "Runwal Raaya | New Launch Ultra-Luxury Residences — Worli, Mumbai",
+              "description": "Runwal Raaya — Ultra-luxury 3, 4 & 5 BHK Residences across 4 acres in Worli, Mumbai. Two iconic towers, podium garden, private elevators. Prices from ₹11.29 Cr*.",
               "image": "https://runwalsraayaworli.in/_next/image?url=%2Fimages%2Fhero%2Fbanner1.webp&w=1200&q=75",
               "author": {
                 "@type": "Organization",

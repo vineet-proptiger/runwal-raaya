@@ -124,7 +124,7 @@
 //                 letterSpacing: '0.01em', lineHeight: 1.5
 //               }}
 //                 data-aos="fade-up" data-aos-delay="280">
-//                 Runwal Raaya <strong style={{ color: "var(--color-gold)", fontWeight: "800" }}>Forest Reserve</strong> presents <strong style={{ color: "var(--color-dark)", fontWeight: "800" }}>Indo‑Japanese</strong> themed ultra-luxury Residencess, an exclusive <strong style={{ color: "var(--color-dark)", fontWeight: "800" }}>new-launch</strong> on Dwarka Expressway.
+//                 Runwal Raaya <strong style={{ color: "var(--color-gold)", fontWeight: "800" }}>Forest Reserve</strong> presents <strong style={{ color: "var(--color-dark)", fontWeight: "800" }}>Indo‑Japanese</strong> themed ultra-luxury Residences, an exclusive <strong style={{ color: "var(--color-dark)", fontWeight: "800" }}>new-launch</strong> on Dwarka Expressway.
 //               </p>
 //               {/* ── Google Rating ── */}
 //               {/* <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px' }}
@@ -235,7 +235,7 @@
 //                 fontFamily: F_SANS, fontSize: '13px', color: '#374151',
 //                 margin: '0 0 2px', fontWeight: '600',
 //               }}>
-//                 3/4 LDK Residencess
+//                 3/4 LDK Residences
 //               </p>
 //               <p style={{
 //                 fontFamily: F_SANS, fontSize: '11px', color: '#9ca3af',
@@ -564,7 +564,7 @@ export default function Hero({ setIsOpen }) {
               'Two Iconic Towers in Worli',
               '2-Acre Podium Garden at Your Feet',
               'Private Elevators & Sunlit Terraces',
-              'Residencess Starting ₹11.29 Cr*',
+              'Residences Starting ₹11.29 Cr*',
             ].map((item, i) => (
               <div key={i} style={{ display:'flex', alignItems:'center', gap:'8px' }}>
                 <span style={{ width:'4px', height:'4px', borderRadius:'50%', background:'var(--color-gold)', flexShrink:0, opacity:0.8 }} />
@@ -581,7 +581,7 @@ export default function Hero({ setIsOpen }) {
           }}>
             <div style={{ textAlign:'center' }}>
               <p style={{ fontFamily:F_SANS, fontSize:'14.5px', fontWeight:600, color:'rgba(255,255,255,0.4)', letterSpacing:'0.06em', marginBottom:'2px' }}>
-                3 & 4 BHK Podium Residencess
+                3 & 4 BHK Podium Residences
               </p>
               <p style={{ fontFamily:F_SANS, fontSize:'11px', fontWeight:700, letterSpacing:'0.18em', textTransform:'uppercase', color:'rgba(255,255,255,0.25)', marginBottom:'4px' }}>
                 Starting at

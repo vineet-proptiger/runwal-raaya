@@ -20,7 +20,7 @@ const Footer = () => (
       </div>
       <p style={{ fontSize: '15px', color: '#bbb', fontFamily: F_SANS, lineHeight: 1.8, marginBottom: '32px', textAlign: 'justify' }}
         data-aos="fade-in" data-aos-delay="100">
-        Runwal Raaya is an ultra-luxury residential development set across 4 acres in the heart of Worli, Mumbai, featuring two iconic towers. Offering 3, 4 &amp; 5 BHK Residencess with carpet areas from 1,738 to 4,500 sq. ft., priced from ₹11.29 Cr* onwards — Runwal Raaya is crafted for those who seek a life of uncompromised elegance, private elevators, sunlit terraces, and a 2-acre podium garden at their feet.
+        Runwal Raaya is an ultra-luxury residential development set across 4 acres in the heart of Worli, Mumbai, featuring two iconic towers. Offering 3, 4 &amp; 5 BHK Residences with carpet areas from 1,738 to 4,500 sq. ft., priced from ₹11.29 Cr* onwards — Runwal Raaya is crafted for those who seek a life of uncompromised elegance, private elevators, sunlit terraces, and a 2-acre podium garden at their feet.
       </p>
       {/* <div style={{ borderTop: '1px solid #333', marginBottom: '24px' }} /> */}
     </div>

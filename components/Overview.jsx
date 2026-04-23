@@ -13,7 +13,7 @@ const F_SERIF = 'var(--font-serif), Cormorant Garamond, serif'
 
 const PREVIEW_TEXT = `Inspired by the ancient Sanskrit word Raay — Raaya carries the quiet weight of royalty; a way of life that is poised, powerful, and innately confident. Set across 4 acres in the heart of Worli, Raaya is a rare sanctuary with just two iconic towers.`
 
-const MORE_TEXT = ` Each Residences is a realm of uncompromised luxury — private elevators, sunlit terraces, and amenities that whisper elegance. Offering 3, 4 & 5 BHK Residencess with carpet areas ranging from 1,738 to 4,500 sq. ft., Runwal Raaya is priced from ₹11.29 Cr* to ₹33.30 Cr with an average price of ₹73,993 per sq. ft. Much like the promise it holds, Runwal Raaya delivers not just a home, but a world where life doesn't adjust. It dazzles.`
+const MORE_TEXT = ` Each Residences is a realm of uncompromised luxury — private elevators, sunlit terraces, and amenities that whisper elegance. Offering 3, 4 & 5 BHK Residences with carpet areas ranging from 1,738 to 4,500 sq. ft., Runwal Raaya is priced from ₹11.29 Cr* to ₹33.30 Cr with an average price of ₹73,993 per sq. ft. Much like the promise it holds, Runwal Raaya delivers not just a home, but a world where life doesn't adjust. It dazzles.`
 
 const OPEN_VIEWS = [
   { dir: '5m', label: 'NH-48', sub: '5 Mins Away' },

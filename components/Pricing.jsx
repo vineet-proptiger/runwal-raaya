@@ -71,7 +71,7 @@ const Pricing = ({ setIsOpen }) => {
             letterSpacing: "0.1em", textTransform: "uppercase",
             border: "1px solid var(--color-gold-light)", marginBottom: "10px",
           }}>
-            WORLI, MUMBAI — PREMIUM ResidencesS
+            WORLI, MUMBAI — PREMIUM Residences
           </span>
           <h2
             className="font-bold mb-4"
